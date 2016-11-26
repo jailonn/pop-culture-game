@@ -21,7 +21,6 @@ input, textarea, select {
 textarea {
 	padding:5px;	
 }
-#navgiagtion ul li
 .clear {
 	clear:both;	
 }
@@ -46,7 +45,7 @@ textarea {
 	line-height:36px;
 }
 
-textarea#title {
+textarea #title {
 	height:50px;
 	width:90%;
 	color:#012b45;
@@ -97,13 +96,13 @@ textarea#title {
 	border:3px solid #ffff5f;
 }
 
-/*#game tbody td.clean:hover {
+#game tbody td.clean:hover {
 	border:3px solid #ffff5f;
 }
 
 #game tbody td.dirty:hover {
 	border:3px solid #2a3698;
-}*/
+}
 
 #game tbody td.dirty h3 {
 	color:#2a3698;	
