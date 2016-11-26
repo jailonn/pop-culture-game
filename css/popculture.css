@@ -73,7 +73,7 @@ textarea #title {
 
 #game tbody td, #game thead th {
 	vertical-align: middle;
-	background-color:#2a3698;
+	background-color:#ffccff;
 	padding:5px;
 	text-align:center;
 	width:19%;
@@ -116,7 +116,7 @@ textarea #title {
 
 #modal {
 	display: none;
-	background-color:#fff;
+	background-color:#ff99ff;
 	padding:5px;
 	border:2px dashed #ccc;
 }
