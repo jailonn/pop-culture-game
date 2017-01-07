@@ -146,16 +146,16 @@ textarea #title {
 }
 
 #game tbody td.dirty:hover {
-	border:3px solid #2a3698;
+	border:3px solid #5effd6;
 }
 
 #game tbody td.dirty h3 {
-	color:#2a3698;	
+	color:#5effd6;	
 }
 
 #game tfoot td {
 	text-align: center;
-	background-color:#2a3698;
+	background-color:#5effd6;
 }
 
 .submit {
