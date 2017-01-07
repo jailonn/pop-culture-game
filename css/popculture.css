@@ -13,6 +13,7 @@ input, textarea, select {
 	display:block;
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	margin:auto;
+	background-color:#5effd6
 }
 #navigation ul{
 	width:auto;
@@ -181,7 +182,7 @@ textarea #title {
 }
 
 #options {
-	background-color:#fff;
+	background-color:#5effd6;
 	width:500px;
 	padding:10px;
 	margin:auto;
@@ -264,7 +265,7 @@ input.add-points {
 	font-size:20px;
 	cursor:pointer;
 	padding:0px;
-	background-color:#FFFFFF;
+	background-color:#99ffbb;
 	border:none;
 	display:inline;
 }
@@ -276,7 +277,7 @@ input.subtract-points {
 	font-size:20px;
 	cursor:pointer;	
 	padding:0px;
-	background-color:#FFFFFF;
+	background-color:99ffbb;
 	border:none;
 	display:inline;
 }
