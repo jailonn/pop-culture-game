@@ -1,6 +1,6 @@
 	<style type="text/css">
         body {
-	background-color:#2a3698;	
+	background-color:#99ffbb;	
 	height:100%;
 	font-family:Verdana, Arial, Helvetica, monospace;
 	padding-bottom:100px;
@@ -13,7 +13,7 @@ input, textarea, select {
 	display:block;
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	margin:auto;
-	background-color:#5effd6
+	background-color:#99ffbb
 }
 #navigation ul{
 	width:auto;
